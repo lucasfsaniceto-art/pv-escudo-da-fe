@@ -79,7 +79,7 @@ export default function PricingSection() {
               <p className="font-sans text-xs text-on-navy/60 mt-1">Tudo + os 3 bônus exclusivos</p>
               <p className="font-sans text-xs text-on-navy/40 line-through mt-3">De R$&nbsp;136,60</p>
               <p className="font-serif text-4xl font-bold text-gold mt-1">R$&nbsp;69<span className="text-2xl">,90</span></p>
-              <p className="font-sans text-xs text-on-navy/60">ou 12x de R$&nbsp;6,99</p>
+              <p className="font-sans text-xs text-on-navy/60">ou 12x de R$&nbsp;7,22</p>
               <p className="font-sans text-xs font-semibold text-check mt-2">Você economiza R$&nbsp;66,70</p>
             </div>
             <div className="px-6 py-5 flex flex-col gap-4 flex-1">
