@@ -1,0 +1,32 @@
+.section {
+  background: var(--color-navy);
+  padding: 72px 24px;
+}
+
+.inner {
+  max-width: 680px;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 36px;
+}
+
+.quote {
+  font-family: var(--font-serif);
+  font-size: clamp(1.4rem, 3vw, 2rem);
+  font-style: italic;
+  color: var(--color-offwhite);
+  line-height: 1.45;
+}
+
+.quote em {
+  color: var(--color-gold);
+  font-style: normal;
+}
+
+.cta {
+  font-size: var(--text-base);
+  padding: 20px 44px;
+}
